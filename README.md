@@ -1,2 +1,1 @@
-# d
-discussions
+# d - repo for group discussions
